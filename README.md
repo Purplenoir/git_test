@@ -1,1 +1,1 @@
-# git_test
+This is Rhonda's first git project!
